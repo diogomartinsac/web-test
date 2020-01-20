@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="close" unicode="&#xe804;" d="m543 352l478-470l-42-42l-480 471l-478-471l-42 42l478 472l-478 470l42 42l480-471l478 471l42-42l-478-472z" horiz-adv-x="1000" />
+<glyph glyph-name="down" unicode="&#xe805;" d="m501 101l-519 378l36 49l483-352l481 352l36-49l-517-378z" horiz-adv-x="1000" />
+<glyph glyph-name="left" unicode="&#xe806;" d="m653-167l-378 517l378 519l49-36l-352-483l352-481l-49-36z" horiz-adv-x="1000" />
+<glyph glyph-name="right" unicode="&#xe808;" d="m337-168l-49 36l352 483l-352 481l49 36l378-517l-378-519z" horiz-adv-x="1000" />
+<glyph glyph-name="up" unicode="&#xe809;" d="m982 184l-483 352l-481-352l-36 49l517 378l519-378l-36-49z" horiz-adv-x="1000" />
+<glyph glyph-name="menu" unicode="&#xe807;" d="m0 770h1000v-126h-1000v126z m0-348h1000v-126h-1000v126z m0-348h1000v-126h-1000v126z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
